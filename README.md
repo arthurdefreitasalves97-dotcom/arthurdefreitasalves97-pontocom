@@ -1,26 +1,41 @@
 # 👋 Olá, eu sou Arthur Freitas
 
-🎓 Estudante de Engenharia de Software na Unicesumar
+🎓 Estudante de Engenharia de Software | Unicesumar
 
-⚡ Jovem Aprendiz na Energial
+⚡ Jovem Aprendiz
 
-💻 Aprendendo SQL, Java, Git e GitHub
+💻 Desenvolvendo habilidades em Java, Git e GitHub
 
-🔐 Interessado em Segurança Cibernética e Banco de Dados
+🔐 Interesse em Segurança Cibernética e Banco de Dados
 
-🚀 Em busca da minha primeira oportunidade na área de Tecnologia
+---
+
+## 🚀 Objetivos
+
+- Evoluir como desenvolvedor
+- Construir projetos práticos
+- Conseguir estágio em Tecnologia
+- Aprender novas tecnologias
+
+---
 
 ## 🛠️ Tecnologias
+
 - Java
-- SQL
 - Git
 - GitHub
+- Banco de Dados
 
-## 🎯 Objetivos
-- Conseguir estágio em TI
-- Criar projetos em Java
-- Evoluir no GitHub
-- Construir um portfólio profissional
+---
+
+## 📈 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Segurança da Informação
+
+---
 
 ## 📫 Contato
-✉️ arthurdefreitasalves97@gmail.com
+
+📧 arthurdefreitasalves97@gmail.com
